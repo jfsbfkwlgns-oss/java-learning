@@ -77,3 +77,5 @@ git commit --amend --reset-author --no-edit
 
 双击 `open-kb.bat`（用 VS Code 打开本目录）。
 换 Obsidian 时：装完直接「打开文件夹 → D:\java-learning」，笔记不用迁移。
+
+本行是我用 Git 提交的第一处改动（2026-10-05）。
