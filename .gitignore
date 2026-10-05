@@ -1,0 +1,43 @@
+# Java 编译产物
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# 构建目录
+target/
+build/
+out/
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+
+# 日志
+*.log
+hs_err_pid*
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian 工作区（保留笔记本身，忽略本地布局）
+.obsidian/workspace*
+.obsidian/cache
+
+# 临时文件
+*.tmp
+*.bak
+~$*
